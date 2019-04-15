@@ -1,0 +1,13 @@
+C:\Users\Nico\source\repos\Entidades\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\Nico\source\repos\Entidades\Entidades\bin\Debug\Entidades.exe
+C:\Users\Nico\source\repos\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Nico\source\repos\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Nico\source\repos\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\Entidades\Entidades\obj\Debug\Entidades.exe
+C:\Users\Nico\source\repos\Entidades\Entidades\obj\Debug\Entidades.pdb
+C:\Users\luchodbr\Desktop\TP1\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\luchodbr\Desktop\TP1\Entidades\bin\Debug\Entidades.exe
+C:\Users\luchodbr\Desktop\TP1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\luchodbr\Desktop\TP1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\luchodbr\Desktop\TP1\Entidades\obj\Debug\Entidades.exe
+C:\Users\luchodbr\Desktop\TP1\Entidades\obj\Debug\Entidades.pdb
